@@ -1,0 +1,13 @@
+
+.background-image-pnf{
+    position:absolute;
+    top:0;
+    left:0;
+    background-image: url('../Utils/bg-lost-in-space.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+  
+  }

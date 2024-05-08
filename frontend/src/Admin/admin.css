@@ -1,0 +1,12 @@
+.background-image-admin{
+    position:absolute;
+    top:0;
+    left:0;
+    background-image: url('https://www.phoneworld.com.pk/wp-content/uploads/2020/10/seo-watch-free-link-preview.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+  
+  }
